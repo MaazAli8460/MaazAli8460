@@ -17,7 +17,7 @@ open-source contributor (sktime ecosystem) · shipping agentic AI systems
 
 | | |
 |---|---|
-| **Models** | Train, evaluate and compare them honestly: time-series generation, detection, NLP |
+| **Models** | Train, evaluate and compare them : time-series, generative, detection, NLP |
 | **Agents** | Orchestrated LLM systems with retrieval, tools, state and an edit/revert loop |
 | **Infra** | CI/CD, containers and Kubernetes so the thing above actually stays up |
 
