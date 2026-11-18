@@ -82,14 +82,14 @@ RNN vs LSTM vs Transformer, each trained with Adam, RMSprop and SGD: nine combin
 <tr>
 <td width="50%" valign="top">
 
-**PawPal** *(final-year project)*<br>
+**[PawPal](https://github.com/Huzaifanasir95/PawPal)** *(final-year project)*<br>
 AI pet-care app: breed identification, vet booking, a chatbot and a React admin portal.<br>
 <sub>`Flutter` `Node.js` `Python` `React`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**Litter Detection**<br>
+**[Litter Detection](https://github.com/MaazAli8460/Comprehensive-Analysis-of-Object-Detection-and-Semantic-Segmentation-for-Litter-Detection)**<br>
 YOLOv8 vs UNet on the TACO dataset: detection against segmentation on the same problem.<br>
 <sub>`PyTorch` `YOLOv8` `UNet`</sub>
 
