@@ -109,9 +109,9 @@ YOLOv8 vs UNet on the TACO dataset: detection against segmentation on the same p
 ## ┃ Signal
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE">LinkedIn</a> ·
-  <a href="mailto:YOUR-EMAIL">Email</a> ·
-  <a href="https://YOUR-PORTFOLIO.vercel.app">Portfolio</a>
+  <a href="https://www.linkedin.com/in/maaz-ali-8460-helloworld">LinkedIn</a> ·
+  <a href="mailto:maazali8460@gmail.com">Email</a> ·
+  <a href="https://maaz-ali-portfolio.vercel.app">Portfolio</a>
 </p>
 
 <p align="center"><sub><code>// built in Islamabad</code></sub></p>
